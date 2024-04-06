@@ -1,5 +1,5 @@
 # Phase 2 Project: King County, House Sales: Multiple Regression Analysis 
-## Author:
+## Collaborators:
 - Maureen Wambui
 - Ann Njoroge
 - Phillip Kinga
