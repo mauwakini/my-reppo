@@ -16,10 +16,11 @@ This project aims to analyze the King County housing data set and to build predi
 ## Business Problem
 - What house features have the greatest correlation with price?
 - How much do each of these features influence house prices?
+- What Machine Learning Model is most suitable when predicting house prices in King County?
 - Are there typical house features that are presumed to inherently influence house prices but do not do so in this particular scenario?
 
 ## Goal and Users
-Our main objective is to aid prospective investors, real estate agents, and homeowners in making informed choices by furnishing them with data and insights obtained through an extensive examination of the King County real estate market. By exploring how various features correlate with changes in home values.
+Our main objective is to aid prospective investors, developers, real estate agents, and homeowners in making informed choices by furnishing them with data and insights obtained through an extensive examination of the King County real estate market. By exploring how various features correlate with changes in home values.
 
 ## Dataset
 This project uses the King County House Sales dataset which can be found in the file "kc_house_data.csv", in this repo. The description of the column names can be found in the 'column_names.md' file in this repository.
@@ -74,7 +75,7 @@ A brief examination of a scatterplot displaying all variables in relation to the
 ![image](https://github.com/mauwakini/my-reppo/assets/151352376/c3e86de4-e816-44e9-9dc1-20178c606b0c)
 
  ### Modelling 
-What Machine Learning Algorithm is most suitable when predicting house price in king county?
+What Machine Learning Model is most suitable when predicting house prices in King County?
 
  | Model                         | R-squared       |
 |-------------------------------|-----------------|
